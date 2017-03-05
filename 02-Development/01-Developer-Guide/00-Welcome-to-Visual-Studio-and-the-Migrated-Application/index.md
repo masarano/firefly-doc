@@ -31,4 +31,15 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ztHuX9ncvTY?list=PL1DEQjXG2xnKI3TL-gsy91eXbh3ytOt6h" frameborder="0" allowfullscreen></iframe>
 
+**Exercise: Program Structure**
+lets go over the main parts of the Northwind project :
+	*In the Solution Explorer, find the startup project (Marked in Bold).
+	*In the Views folder find the ApplicationMdi form and open it(duble click).
+	*in the root of the project find the fullowing file open them and take a look.
+		*ApplicationEntities.cs
+		*ApplicationPrograms.cs
+		*Northwind.ini
+		*Program.cs
+	*open the base project and the share project
+
 
