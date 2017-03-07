@@ -38,10 +38,10 @@ namespace Northwind.Exercises
 {
     class MyFirstClass
     {
-        public void Run()
-        {
-
-        }
++       public void Run()
++       {
++
++       }
     }
 }
 ```
@@ -64,7 +64,7 @@ namespace Northwind.Exercises
     {
         public void Run()
         {
-            System.Windows.Forms.MessageBox.Show("Hello C#");
++           System.Windows.Forms.MessageBox.Show("Hello C#");
         }
     }
 }
